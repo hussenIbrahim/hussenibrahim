@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**hussenIbrahim/hussenibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hussenibrahim/hussenibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![hussenibrahim's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussenibrahim&langs_count=4&layout=compact&theme=transparent)
+![Hussen Ibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=hussenibrahim&show_icons=true&theme=transparent)
