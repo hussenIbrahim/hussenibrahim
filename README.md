@@ -61,7 +61,7 @@ I believe in continuous growth and am actively focused on mastering the followin
 
 | Platform | Link |
 | :--- | :--- |
-| **Portfolio** | [https://hussenibrahim.vercel.app/](https://hussenibrahim.vercel.app/) |
+| **Portfolio** | [https://hussenibrahim.vercel.app](https://hussenibrahim.vercel.app) |
 | **Email** | [hussenibrahim245@gmail.com](mailto:hussenibrahim245@gmail.com) |
 
 
