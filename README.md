@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <!--
-**andannn/andannn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**hussenibrahim/hussenibrahim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![andannn's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andannn&langs_count=4&layout=compact&theme=transparent)
-![Andannn's GitHub stats](https://github-readme-stats.vercel.app/api?username=andannn&show_icons=true&theme=transparent)
+![hussenibrahim's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hussenibrahim&langs_count=4&layout=compact&theme=transparent)
+![hussenibrahim's GitHub stats](https://github-readme-stats.vercel.app/api?username=hussenibrahim&show_icons=true&theme=transparent)
