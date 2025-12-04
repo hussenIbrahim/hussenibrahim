@@ -44,7 +44,7 @@ Here's a snapshot of the tools and technologies I use to bring ideas to life.
 * **Role:** Led the front-end development and maintenance of core mobile applications, ensuring cross-platform consistency and high user satisfaction.
 * **Impact:** Developed and maintained **8+** production-level applications currently used by **thousands of active users across the region**.
 * **Key Achievement:** Successfully refactored key modules using the BLoC pattern, which significantly improved code maintainability and reduced loading times by **15%**.
-* **App Portfolio:** Contributed to a diverse range of high-traffic apps including solutions for [Example App Type: E-commerce], [Example App Type: Financial Services], and internal management tools.
+* **App Portfolio:** Contributed to a diverse range of high-traffic apps, and internal management tools.
 
 ---
 
